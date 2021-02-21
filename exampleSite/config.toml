@@ -1,0 +1,69 @@
+baseURL = "https://salinipillai.com"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "Salini Pillai - Former Accountant turned Digital Marketer"
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 1
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[params]
+address = "Bangalore, India"
+author = "Salini Pillai"
+copyright = "&copy; 2021 | Salini Pillai"
+description = "Driven by a goal to learn every day and highly passionate about utilizing my detail-oriented mindset in the ever-expanding world of marketing (& operations)."
+email = "steve.fruits@email.com"
+google_analytics_id = ""
+home = "Home"
+logo = "images/logo.svg"
+phone = "+123 456 7890"
+theme_color = "#41228e"
+[params.contact]
+enable = true
+form_action = "#"
+[params.cookies]
+enable = true
+expire_days = 2
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = false
+preloader = "images/preloader.gif"
+[[params.social]]
+URL = "https://www.linkedin.com/in/salinipillai/"
+icon = "ti-linkedin"
+[[params.social]]
+URL = "https://www.facebook.com/salini.pillai.7"
+icon = "ti-facebook"
