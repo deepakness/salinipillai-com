@@ -24,3 +24,4 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/blog/how-to-stay-private-on-the-internet.md
+- exampleSite/content/blog/this-is-a-sample-post.md
