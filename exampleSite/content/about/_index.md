@@ -1,7 +1,7 @@
 ---
 title: About
 description: Salini Pillai - About Me
-author_image: images/about/author.jpg
+author_image: "/images/potato-parcel-riad-bekhit-7797191704661_540x.webp"
 author_signature: images/about/signature.png
 
 ---
