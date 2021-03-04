@@ -4,23 +4,27 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Salini Pillai - Former Accountant turned Digital Marketer"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 3
+URL = "portfolio"
+name = "Portfolio"
+weight = 1
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 2
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 1
+URL = "about"
+name = "About"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [params]
 address = "Bangalore, India"
 author = "Salini Pillai"
 copyright = "2021 &copy; Salini Pillai"
 description = "Driven by a goal to learn every day and highly passionate about utilizing my detail-oriented mindset in the ever-expanding world of marketing (& operations)."
-email = "salini@kretaro.com"
+email = "salinipillai6@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.svg"
