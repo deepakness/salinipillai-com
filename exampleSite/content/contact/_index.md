@@ -7,4 +7,3 @@ menu:
     weight: 4
 
 ---
-Hello
