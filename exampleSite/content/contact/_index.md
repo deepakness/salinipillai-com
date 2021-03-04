@@ -5,5 +5,7 @@ menu:
   main:
     URL: contact
     weight: 4
+draft: true
 
 ---
+Hello
