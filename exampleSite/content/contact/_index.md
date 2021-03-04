@@ -8,4 +8,3 @@ menu:
 draft: true
 
 ---
-Hello
