@@ -28,7 +28,7 @@ email = "salinipillai6@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.svg"
-phone = "+123 456 7890"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
