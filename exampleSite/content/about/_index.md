@@ -2,7 +2,7 @@
 title: About
 description: Salini Pillai - About Me
 author_image: "/images/256890152sst1618233176.jpg"
-author_signature: images/about/signature.png
+author_signature: "/images/page-1.png"
 
 ---
 Some college students are enlightened enough to figure out their career path while in school. In my case, it took me a few years after graduating with a Master’s degree that I realized a career in Accounts wasn’t for me.
