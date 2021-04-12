@@ -1,7 +1,7 @@
 ---
 title: About
 description: Salini Pillai - About Me
-author_image: "/images/256890152sst1618233176.jpg"
+author_image: "/images/256890152sst1618233176-min.jpg"
 author_signature: "/images/page-1.png"
 
 ---
