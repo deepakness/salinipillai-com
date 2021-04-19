@@ -2,7 +2,6 @@
 author = ""
 date = ""
 description = ""
-draft = true
 image = "/images/download-here.rar"
 image_webp = ""
 title = "Notion Customized Icons"
