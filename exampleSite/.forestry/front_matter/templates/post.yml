@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/blog/14-best-free-seo-tools.md
 - exampleSite/content/blog/how-to-stay-private-on-the-internet.md
