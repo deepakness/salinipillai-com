@@ -2,7 +2,6 @@
 author = ""
 date = ""
 description = "Free best SEO tools"
-draft = true
 image = "/images/14-free-seo-tools.png"
 image_webp = "/images/14-free-seo-tools.png"
 title = "14 best free SEO tools."
