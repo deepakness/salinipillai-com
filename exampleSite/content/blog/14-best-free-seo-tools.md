@@ -24,12 +24,12 @@ Ubersuggest gives you hundreds of Google Keyword suggestions for free. A best to
 
 ### Keyword Research
 
-4\. [Google Keyword Planner]()  
+4\. [Google Keyword Planner](http://adwords.google.com/keywordplanner)  
 Google Keyword Planner will give you data not available anywhere else about the keywords you've found through brainstorming. Monthly searches, competition, suggested bid...it's all here.
 
 ### Technical SEO
 
-5\. [SEO Toolbar]()  
+5\. [SEO Toolbar](http://moz.com/tools/seo-toolbar)  
 One of the popular tools, The SEO Toolbar puts a ton of information at your fingertips including backlinks and competitive research.
 
 ### Content SEO Optimisation Tools
