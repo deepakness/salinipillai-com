@@ -2,6 +2,7 @@
 author = ""
 date = 2021-04-19T15:30:00Z
 description = "Free best SEO tools"
+draft = true
 image = "/images/14-free-seo-tools.png"
 image_webp = "/images/14-free-seo-tools.png"
 title = "14 best free SEO tools."
@@ -13,7 +14,8 @@ And it worked for me to bring a huge number of visitors for my clients.
 
 ### Keyword Brainstorming
 
-1\. [Wikipedia](http://www.wikipedia.org)  
+#### 1. [Wikipedia](http://www.wikipedia.org)
+
 Wikipedia is a great tool for keyword research as it helps you to think laterally about your keyword. Find synonyms & related keywords which your competitors have overlooked.
 
 2\. [Reddit](http://www.reddit.com/)  
