@@ -58,9 +58,10 @@ And it worked for me to bring a huge number of visitors for my clients.
 
 ### SEO Analysis Tools
 
-13. [**WooRank Chrome Extension**](https://chrome.google.com/webstore/detail/seo-analysis-website-revi/hlngmmdolgbdnnimbmblfhhndibdipaf?hl=en)  
-    SEO Report is an extension for Google Chrome. Click on the WooRank extension icon to open a detailed SEO report of any site you visit.
-14. [**Dareboost**](https://www.dareboost.com/)  
-    Analyze your site for SEO, speed, security and more. Dareboost isn’t strictly an SEO tool. But it helps to analyze your site for things that indirectly impact SEO, like your site’s loading speed and security.
+[**WooRank Chrome Extension**](https://chrome.google.com/webstore/detail/seo-analysis-website-revi/hlngmmdolgbdnnimbmblfhhndibdipaf?hl=en)  
+SEO Report is an extension for Google Chrome. Click on the WooRank extension icon to open a detailed SEO report of any site you visit.
+
+[**Dareboost**](https://www.dareboost.com/)  
+Analyze your site for SEO, speed, security and more. Dareboost isn’t strictly an SEO tool. But it helps to analyze your site for things that indirectly impact SEO, like your site’s loading speed and security.
 
 I hope you got an idea of a few tools that will improve your workflow without affecting your budget. These free SEO tools will help you get started, and a few of them are pretty powerful.
