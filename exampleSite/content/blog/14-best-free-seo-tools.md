@@ -16,18 +16,6 @@ And it worked for me to bring a huge number of visitors for my clients.
 1\. [**Wikipedia**](http://www.wikipedia.org)  
 Wikipedia is a great tool for keyword research as it helps you to think laterally about your keyword. Find synonyms & related keywords which your competitors have overlooked.
 
-2
-
-This is a list of the 14 best free SEO tools on the earth.
-
-And it worked for me to bring a huge number of visitors for my clients.
-
-### Keyword Brainstorming
-
-#### 1. [Wikipedia](http://www.wikipedia.org)
-
-Wikipedia is a great tool for keyword research as it helps you to think laterally about your keyword. Find synonyms & related keywords which your competitors have overlooked.
-
 2\. [**Reddit**](http://www.reddit.com/)  
 Reddit is a great tool for keyword research as it lets you go deep into your niche. Reddit users are passionate early adopters who frequently post about the latest trends.
 
