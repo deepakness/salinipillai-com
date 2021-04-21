@@ -13,18 +13,18 @@ And it worked for me to bring a huge number of visitors for my clients.
 
 ### Keyword Brainstorming
 
-1\. [**Wikipedia**](http://www.wikipedia.org)  
+**1.** [**Wikipedia**](http://www.wikipedia.org)  
 Wikipedia is a great tool for keyword research as it helps you to think laterally about your keyword. Find synonyms & related keywords which your competitors have overlooked.
 
-2\. [**Reddit**](http://www.reddit.com/)  
+**2.** [**Reddit**](http://www.reddit.com/)  
 Reddit is a great tool for keyword research as it lets you go deep into your niche. Reddit users are passionate early adopters who frequently post about the latest trends.
 
-3\. [**Ubersuggest.org**](http://ubersuggest.org)  
+**3.** [**Ubersuggest.org**](http://ubersuggest.org)  
 Ubersuggest gives you hundreds of Google Keyword suggestions for free. A best tool to find every possible long tail variation of your keyword.
 
 ### Keyword Research
 
-4\. [**Google Keyword Planner**](http://adwords.google.com/keywordplanner)  
+**4.** [**Google Keyword Planner**](http://adwords.google.com/keywordplanner)  
 Google Keyword Planner will give you data not available anywhere else about the keywords you've found through brainstorming. Monthly searches, competition, suggested bid...it's all here.
 
 ### Technical SEO
